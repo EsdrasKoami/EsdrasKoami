@@ -1,0 +1,61 @@
+<svg width="1000" height="240" viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14"/>
+      <stop offset="50%" stop-color="#0D1524"/>
+      <stop offset="100%" stop-color="#090E18"/>
+    </linearGradient>
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#CBD5E1"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.75" stroke-opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1000" height="240" rx="12" fill="url(#bg-gradient)"/>
+  
+  <!-- Subtle Grid Pattern -->
+  <rect width="1000" height="240" rx="12" fill="url(#grid)"/>
+
+  <!-- Architectural Frame & Glowing Accents -->
+  <rect x="1" y="1" width="998" height="238" rx="11" fill="none" stroke="#1E293B" stroke-width="1.2"/>
+  <line x1="80" y1="1" x2="920" y2="1" stroke="url(#cyan-glow)" stroke-width="2"/>
+  <line x1="160" y1="239" x2="840" y2="239" stroke="url(#cyan-glow)" stroke-width="1.5"/>
+
+  <!-- Corner Precise Geometric Reticules -->
+  <path d="M 24 36 L 24 24 L 36 24" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.8"/>
+  <path d="M 976 36 L 976 24 L 964 24" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.8"/>
+  <path d="M 24 204 L 24 216 L 36 216" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.8"/>
+  <path d="M 976 204 L 976 216 L 964 216" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.8"/>
+
+  <!-- Terminal / Architecture Status Pill -->
+  <rect x="410" y="32" width="180" height="24" rx="12" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+  <circle cx="424" cy="44" r="4" fill="#38BDF8"/>
+  <text x="436" y="48" fill="#94A3B8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, monospace" font-size="10.5" font-weight="600" letter-spacing="1.5">CORE SYSTEMS ENG</text>
+
+  <!-- Main Identity Header -->
+  <text x="500" y="118" text-anchor="middle" fill="url(#text-gradient)" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing="7">ESDRAS AMEDJIKO</text>
+
+  <!-- Subtitle Specialization -->
+  <text x="500" y="152" text-anchor="middle" fill="#94A3B8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, sans-serif" font-size="13" font-weight="500" letter-spacing="3.5">ENTERPRISE .NET ARCHITECTURE &bull; DISTRIBUTED &bull; REAL-TIME SYSTEMS</text>
+
+  <!-- Minimalist Core Tags Bar -->
+  <g transform="translate(245, 182)">
+    <rect x="0" y="0" width="150" height="24" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+    <text x="75" y="16" text-anchor="middle" fill="#64748B" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="1">C# / .NET CORE</text>
+
+    <rect x="175" y="0" width="160" height="24" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+    <text x="255" y="16" text-anchor="middle" fill="#64748B" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="1">DISTRIBUTED SYSTEMS</text>
+
+    <rect x="360" y="0" width="150" height="24" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+    <text x="435" y="16" text-anchor="middle" fill="#64748B" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="1">UNITY / SIMULATION</text>
+  </g>
+</svg>
