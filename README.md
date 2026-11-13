@@ -1,28 +1,11 @@
-<div align="center">
+# Esdras Amedjiko
 
-<p align="center">
-  <img src="./banner.svg" alt="Esdras Amedjiko - Software Engineer" width="100%" />
-</p>
+**Software Engineer | .NET Ecosystem, Distributed Systems & Interactive Technologies**
 
-<p align="center">
-  <a href="mailto:esdras.amedjiko@gmail.com"><img src="https://img.shields.io/badge/Direct_Inquiries-esdras.amedjiko%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/esdras-amedjiko"><img src="https://img.shields.io/badge/LinkedIn-Esdras_Amedjiko-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/EsdrasKoami"><img src="https://img.shields.io/badge/GitHub-EsdrasKoami-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+[Direct Inquiries (Email)](mailto:esdras.amedjiko@gmail.com) • [LinkedIn](https://linkedin.com/in/esdras-amedjiko) • [GitHub](https://github.com/EsdrasKoami)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Unity_Engine-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-0F172A?style=flat-square" alt="Clean Architecture" />
-</p>
-
-</div>
+**Stack & Méthodologies :**  
+`C#` • `.NET 8` • `ASP.NET Core` • `Unity Engine` • `JavaScript (ES6+)` • `Python 3` • `Clean Architecture` • `Domain-Driven Design (DDD)`
 
 ---
 
@@ -99,22 +82,6 @@ Application stricte des paradigmes d'ingenierie : Clean Architecture, Domain-Dri
     </td>
   </tr>
 </table>
-
----
-
-### Activity & Contribution Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EsdrasKoami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="155" alt="EsdrasKoami GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EsdrasKoami&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="155" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=EsdrasKoami&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" height="155" alt="GitHub Streak Stats" />
-</div>
 
 ---
 
