@@ -71,9 +71,9 @@ Application stricte des paradigmes d'ingenierie : Clean Architecture, Domain-Dri
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/EsdrasKoami/JEU_UNITY_2D_VAUDOUGLITCH">JEU_UNITY_2D_VAUDOUGLITCH</a></h4>
-      <p>Conception et developpement d'un moteur de jeu interactif sur <strong>Unity</strong>. Integration de controleurs de physique avances, machines a etats finis et optimisation de rendu.</p>
-      <p><code>Unity</code> <code>C#</code> <code>Game Architecture</code> <code>Physics</code></p>
+      <h4><a href="https://github.com/EsdrasKoami/Pintrest">Pintrest</a></h4>
+      <p>Plateforme web de curation et de decouverte multimédia developpee en <strong>Python</strong>. Implementation d'une architecture d'API RESTful et gestion modulaire des donnees.</p>
+      <p><code>Python</code> <code>RESTful API</code> <code>Backend</code> <code>Web Engineering</code></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/EsdrasKoami/LAB2VR_Amedjiko_Bombo">LAB2VR Simulation</a></h4>
